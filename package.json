@@ -1,0 +1,23 @@
+{
+  "name": "javascript-axios",
+  "version": "1.0.0",
+  "description": "原生js实现axios库，多端可用的网络请求库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YGT-cxy/js-axios.git"
+  },
+  "keywords": [
+    "axios",
+    "网络请求库"
+  ],
+  "author": "叶子先生",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YGT-cxy/js-axios/issues"
+  },
+  "homepage": "https://github.com/YGT-cxy/js-axios#readme"
+}
